@@ -197,6 +197,7 @@ input, select {
 }
 .services-list__txt {
     font-size: 18px;
+    line-height: 1.5;
 }
 @media screen and (max-width:767px) {
     .common__inner {
